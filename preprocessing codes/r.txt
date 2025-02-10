@@ -1,0 +1,5 @@
+training: 
+The largest image width is: 731
+The largest image height is: 128
+
+testing:
