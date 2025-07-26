@@ -3,7 +3,7 @@
 ### First Semester, 2024/2025
 
 # ENCS5343 Computer Vision - Course Project
-**Due Date:** January 15, 2025
+
 
 ## 1. Objectives
 Use deep learning techniques to solve the problem given in the second assignment.
@@ -78,4 +78,3 @@ Write a comprehensive report that includes the following sections:
 
 ---
 
-**End of README**
